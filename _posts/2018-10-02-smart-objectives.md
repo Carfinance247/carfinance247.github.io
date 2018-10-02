@@ -20,11 +20,11 @@ This blog will identify how to effectively achieve this through SMART objectives
 
 SMART is a mnemonic term broken down to the following elements[1];
 
--	Specific – target a specific area for improvement.
--	Measurable – quantify or at least suggest an indicator of progress.
--	Assignable – specify who will do it.
--	Realistic – state what results can realistically be achieved, given available resources.
--	Time-related – specify when the result(s) can be achieved.
+-	**Specific** – *target a specific area for improvement.*
+-	**Measurable** – *quantify or at least suggest an indicator of progress.*
+-	**Assignable** – *specify who will do it.*
+-	**Realistic** – *state what results can realistically be achieved, given available resources.*
+-	**Time-related** – *specify when the result(s) can be achieved.*
 
 
 Let’s examine each of the above terms and provide examples of each where it can be effectively described and implemented
@@ -67,14 +67,10 @@ Compare this with the following altered version;
 
 **Realistic**
 
-> In order to set an effective objective to an individual during a
-> review, the objective needs to realistically achievable, and not
-> considered unreasonably outside the boundaries of the individual. It’s
-> important to note, this may not necessarily be because of
-> capabilities, and can be other constraints outside the control of the
-> individual. Consider the following objective;
+In order to set an effective objective to an individual during a review, the objective needs to realistically achievable, and not considered unreasonably outside the boundaries of the individual. It’s important to note, this may not necessarily be because of capabilities, and can be other constraints outside the control of the individual. Consider the following objective;
 
-The individual will increase company profitability 10 fold through their contribution during the quarter.
+> The individual will increase company profitability 10 fold through
+> their contribution during the quarter.
 
 Compare this with the following altered version;
 
@@ -85,12 +81,10 @@ Compare this with the following altered version;
 
 **Time-Related**
 
-> In order to set an effective objective to an individual during a
-> review, the objective needs to realistically achievable, in this
-> instance during the quarter. It’s also important to consider the
-> inverse and not make the objective too short to achieve.
+In order to set an effective objective to an individual during a review, the objective needs to realistically achievable, in this instance during the quarter. It’s also important to consider the inverse and not make the objective too short to achieve.
 
-The individual will have a deep understanding of all the functionality present in all our squads in the department.
+> The individual will have a deep understanding of all the functionality
+> present in all our squads in the department.
 
 Compare this with the following altered version;
 
