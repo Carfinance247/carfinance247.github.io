@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Continued Professional Development in the workplace - SMART objectives
@@ -27,8 +28,7 @@ SMART is a mnemonic term broken down to the following elements[1];
 
 Let’s divulge into each of the above terms and provide examples of each where it can be effectively described and implemented
 
-
-1) Specific
+**Specific**
 In order to set an effective objective to an individual during a review, the objective needs to be specific, without the existence of a reasonable level of ambiguity. Consider the following objective;
 
 The individual will improve their leadership skills.
@@ -37,7 +37,7 @@ Compare this with the following altered version;
 
 The individual will improve their leadership skills, by chairing at least one sprint retrospective during the quarter.
 
-2)Measure
+**Measure**
 In order to set an effective objective to an individual during a review, the objective needs to be specific, without the existence of a reasonable level of ambiguity. Consider the following objective;
 
 The individual will improve their development skills.
@@ -46,7 +46,7 @@ Compare this with the following altered version;
 
 The individual will improve their development skills, by implementing a suitable design pattern to an existing or new feature, resulting in the feature implementing SOLID principles, governed and integrated through a successful peer review(s).
 
-3)Assignable
+**Assignable**
 In order to set an effective objective to an individual during a review, the objective needs to be clear who is assignable the objective. Consider the following objective;
 
 The individual will become a Scrum Master.
@@ -55,7 +55,7 @@ Compare this with the following altered version;
 
 The individual will become a Scrum Master, by themselves organising, arranging and  escalating company financial assistance,  a suitable course followed by exam.
 
-4)Realistic
+**Realistic**
 In order to set an effective objective to an individual during a review, the objective needs to realistically achievable, and not considered unreasonably outside the boundaries of the individual. It’s important to note, this may not necessarily be because of capabilities, and can be other constraints outside the control of the individual. Consider the following objective;
 
 The individual will increase company profitability 10 fold through their contribution during the quarter.
@@ -64,7 +64,7 @@ Compare this with the following altered version;
 
 The individual will help drive company revenue and in turn profits, working with stakeholders, implementing features which will improve required criteria and targeting better performing applicants from our Cost Per Agreement (CPA) Partners.
 
-5)Time-Related
+**Time-Related**
 In order to set an effective objective to an individual during a review, the objective needs to realistically achievable, in this instance during the quarter. It’s also important to consider the inverse and not make the objective too short to achieve.
 
 The individual will have a deep understanding of all the functionality present in all our squads in the department.
