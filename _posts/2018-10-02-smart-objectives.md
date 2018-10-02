@@ -29,6 +29,7 @@ SMART is a mnemonic term broken down to the following elements[1];
 Let’s examine each of the above terms and provide examples of each where it can be effectively described and implemented
 
 **Specific**
+
 In order to set an effective objective to an individual during a review, the objective needs to be specific, without the existence of a reasonable level of ambiguity. Consider the following objective;
 
 > The individual will improve their leadership skills.
@@ -39,6 +40,7 @@ Compare this with the following altered version;
 > least one sprint retrospective during the quarter.
 
 **Measure**
+
 In order to set an effective objective to an individual during a review, the objective needs to be specific, without the existence of a reasonable level of ambiguity. Consider the following objective;
 
 > The individual will improve their development skills.
@@ -51,6 +53,7 @@ Compare this with the following altered version;
 > through a successful peer review(s).
 
 **Assignable**
+
 In order to set an effective objective to an individual during a review, the objective needs to be clear who is assignable the objective. Consider the following objective;
 
 > The individual will become a Scrum Master.
