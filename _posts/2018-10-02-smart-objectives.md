@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Continued Professional Development in the workplace - SMART objectives
+title: Continued Professional Development - SMART objectives
 author: pavenpal_bhullar
 comments: true
 excerpt_separator: <!--more-->
@@ -14,6 +14,8 @@ The following describes an effective procedure that can be implemented as part o
 At CarFinance 247, peers enter a round of quarterly reviews with line managers. The purpose of this is  reviewing and setting objectives, which are in place to identify, develop and promote an individual's skills set and/or to continue the improvement an existing skills set. Skills criteria can range from technical endeavors through to softer skills such as effective communications and leadership.
 
 This blog will identify how to effectively achieve this through SMART objectives.
+
+<!--more-->
 
 ## What are SMART Objectives
 
