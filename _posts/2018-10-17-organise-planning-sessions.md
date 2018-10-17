@@ -33,7 +33,7 @@ Time boxed session where the team agree to a set of deliverables (backlog items)
 The Key importance is ensuring sprint candidates meet the definition of ready. In the days leading sprint planning, the Product Owner identifies the items with the greatest value and work towards getting them to a ready state
 -	Assign a Relative Story point
 -	Define Acceptance Criteria
--	Meet INVEST criteria (http://wall-skills.com/2015/good-user-stories-are-invest/) 
+-	Meet [INVEST](http://wall-skills.com/2015/good-user-stories-are-invest/) criteria
 It’s important to note the product backlog can include just about anything (new functionality, bugs and risks). Product Backlog Items (PBI’s) must be small enough to complete within a few days, if a story is considered too large, it should be split vertically (i.e. standalone) into smaller pieces.
 
 ## Additional techniques
