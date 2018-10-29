@@ -27,10 +27,6 @@ It may sound surprising, but expecting high performance can be achieved without 
 As a coach or someone coaching / mentoring a team, fundamentally, you have to believe in high performance to achieve it, and deliver a message to strive for success, propelling the team forward sprint after sprint, release by release. By subscribing to your own expectation, you enact the team to do the same, and coach individuals by giving them the raw materials needed to achieve and deliver high performance.
 
 
-## Retrospective
-
-An opportunity for the Scrum Team to self-inspect and create a plan for improvements to be enacted during the next sprint. Usually chaired by the Scrum Master or a member of the team. Formats include Happy, Mad & Sad or KISS (Start, Stop, Continue & Improve). A set of agreeable actions formed.
-
 ## High Performance Tree
 
 A key metaphor which is illustrated and visualised as gauging high performance is in the form of a tree.
