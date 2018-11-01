@@ -15,7 +15,7 @@ This blog will be inspired from the reading of a book that was highly recommende
 <!--more-->
 
 ## Introduction
-One of the key expectations for delivering success using agile techniques is to demand high performance. This post will discuss the characteristics which collectively subscribe to the efforts of delivering successful sprints, from sprint planning through to retrospectives, and all mid-sprint activities in between.
+One of the key expectations for delivering success using agile techniques is to demand high performance. This blog will discuss the characteristics which collectively subscribe to the efforts of delivering successful sprints, from sprint planning through to retrospectives, and all mid-sprint activities in between.
 
 
 ## Set the Expectation
@@ -30,9 +30,7 @@ As a coach, fundamentally, **you have to believe in high performance to achieve 
 
 A key metaphor which is illustrated below as enacting high performance is used in the form of a performance tree[1].
 
-```
 ![High_Performance_Tree](../images/high_performance_tree.jpg)
-```
 
 An illustration of a high performance tree, serves to act as a reminder of the guiding principles, which collectively describe what needs to be encouraged in an agile team. 
 
@@ -46,29 +44,28 @@ An illustration of a high performance tree, serves to act as a reminder of the g
 
 As like me, if you struggle to always remember definitions, i always find a mnemonic or acronym helps, here I have coined the term F.O.R.C.E used to describe the key attributes of a high performing tree;
 
-•	**F**ocus,  on the work you have committed to
-•	**O**peness, by keeping everything to the team visible and transparent 
-•	**R**espect, individuals by their background and experiences who collectively comprise a team
-•	**C**ommitment, willingly to a goal. Scrum provides authority needed to meet commitments
-•	**E**n- Courage, yourself to commit, act and be open, and to expect respect[3]
+> •	**F**ocus,  on the work you have committed to
+> •	**O**peness, by keeping everything to the team visible and transparent 
+> •	**R**espect, individuals by their background and experiences who collectively comprise a team
+> •	**C**ommitment, willingly to a goal. Scrum provides authority needed to meet commitments
+> •	**E**n- Courage, yourself to commit, act and be open, and to expect respect[3]
 
 
 ## Collaboration with High Performance
 Once a team has flourished to the metaphor of a high performing tree, that team will itself be subject to becoming an inviting place for collaboration, individuals within the team will notice developments of their own skills set as a derivative of achieving high performance, compromising such as the following; [4]
 
-•	Self organising rather than governed by role and / or title.
-•	Empowered to make decisions
-•	Truly believe as a team any problem can be solved.
-•	Committed to team success above all else.
-•	Decisions and commitments are owned by the team.
-•	Motivated by Trust vs. fear or anger.
-•	Consensus-driven, divergence following convergence.
-•	Live in a world of constant constructive disagreement.
+> •	Self organising rather than governed by role and / or title.
+> •	Empowered to make decisions
+> •	Truly believe as a team any problem can be solved.
+> •	Committed to team success above all else.
+> •	Decisions and commitments are owned by the team.
+> •	Motivated by Trust vs. fear or anger.
+> •	Consensus-driven, divergence following convergence.
+> •	Live in a world of constant constructive disagreement.
 
 These characteristics can be further encapsulated in the below illustration.
-```
+
 ![Continued High_Performance_Tree](../images/continued_high_performance_tree.jpg)
-```
 
 ## Conclusion
 High performance, the results of a team’s high performance, is a journey. A team may reach a level of high performance, or continue to keep performing highly, but it never an “arrived” state, the journey continues.
@@ -76,7 +73,7 @@ High performance, the results of a team’s high performance, is a journey. A te
 Almost certainly, when a team has reached a high performance level, invariably, challenges and obstacles will get in the way which will act as a disruption. The importance is to engage, apply and learn / feedback from the principles of high performance described above, and by individuals collaborating to set their own expectations to commit to.
 
 ## References
-[1]: Oikosofy High Performance Tree -  http://oikosofy.com/high-performance-tree/ 
-[2]: Coaching Agile Teams - Lyssa Adkins
-[3]: Scwaber and Beedle 2001
-[4] :Adapted from Tabaka 2006
+> [1]: Oikosofy High Performance Tree -  http://oikosofy.com/high-performance-tree/ 
+> [2]: Coaching Agile Teams - Lyssa Adkins
+> [3]: Scwaber and Beedle 2001
+> [4] :Adapted from Tabaka 2006
