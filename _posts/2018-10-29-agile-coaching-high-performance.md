@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Agile Coaching - Setting High Performance in an Agile Team
@@ -8,20 +7,20 @@ excerpt_separator: <!--more-->
 ---
 
 ## Preamble
-Continued professional development (CPD) involves applying, learning and getting feedback, in order to excel and achieve success. High performance in any team, is valued and recognised as individuals excelling and achieving success, and collectively as a team, becomes a very powerful attribute.
+Continued professional development (CPD) involves applying, learning and receiving feedback, in order to excel and achieve success. High performance in any team, is valued and recognised as individuals excelling and achieving success, and collectively as a team, becomes a very powerful attribute in any organisation.
 
-This blog will discuss coaching teams to be successful and high performing, and is inspired from the recent reading of a book that was highly recommended by Scrum Masters and Agile Coaches online  [Coaching Agile Teams: Lyssa Adkins](https://www.amazon.co.uk/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704/ref=sr_1_1?ie=UTF8&qid=1533026371&sr=8-1&keywords=coaching+agile+teams).  Thanks to Carfinance 247 for purchasing a couple of copies, which are available to read in the Library.
+This blog will discuss coaching individuals in agile teams to become high performing, and is inspired from the recent reading of a book that was highly recommended by Scrum Masters and Agile Coaches online  [Coaching Agile Teams: Lyssa Adkins](https://www.amazon.co.uk/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704/ref=sr_1_1?ie=UTF8&qid=1533026371&sr=8-1&keywords=coaching+agile+teams).  Thanks to Carfinance 247 for purchasing a couple of copies, which are available to read in the Library.
 <!--more-->
 
 ## Introduction
-As a Lead Software Engineer at CarFinance 247, my role involves applying a variety of skills set, from writing code, software architecture and the technical compass of products, all the way through to being equipped with the necessary softer skills to effectively manage and lead a team of ambitious, highly driven and talented software engineers. 
+As a Lead Software Engineer at CarFinance 247, my role involves acquires a variety of skills set, from writing code, software architecture and overseeing the technical compass of team products, all the way through to being equipped with the necessary softer and managerial skills to effectively to lead a team of ambitious, highly driven and talented software engineers. 
 
-With the later in mind, i would like to talk about coaching, more specifically agile coaching, to help achieve team success and high performance. I will be describing in this blog how some effective techniques and measures used to coach an agile team to expect high performance. 
+With this in mind, it brings me on to the point to discuss coaching, more specifically agile coaching, in order to help achieve team success through high performance. I will be describing in this blog some effective techniques and measures used to coach an agile team to expect high performance. 
 
 ## Set the Expectation
 It may sound surprising, but expecting high performance from your team, can be achieved without explicitly demanding it. The idea of effectively coaching a team to be highly performing,  and holding the team themselves accountable for that performance success, is more than achievable, with the following consideration.
 
-As a coach, fundamentally, **you have to yourself believe in ability for the team to achieve it**, and deliver a message to strive for success, propelling the team forward sprint after sprint, release by release. By subscribing to your own expectation, you enact the team to do the same, and coach individuals by giving them the raw materials needed to achieve and deliver, time after time.
+As a coach, fundamentally, **you have to believe in the team's high performance in order to achieve it**, and deliver a message to strive for success, propelling the team forward sprint after sprint, release by release. By subscribing to your own expectation, you enact the team to do the same, and coach individuals by giving them the raw materials needed to achieve and deliver, time after time.
 
 We will take the opportunity to discuss how a team can themselves expect high performance, by broadly discussing the characteristics which subscribe in helping to deliver high performance in all aspects of an agile framework. This includes sprint planning through to retrospectives, and all mid-sprint activities in between.
 
