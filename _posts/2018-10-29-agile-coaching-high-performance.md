@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Agile Coaching - Setting High Performance in an Agile Team
