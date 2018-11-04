@@ -34,6 +34,7 @@ A popular metaphor which is illustrated below as enacting high performance is us
 <p align="center">
     <img src="../images/high_performance_tree.jpg" title="High Performance Tree">
 </p>
+<br />
 
 An illustration of a high performance tree, serves to act as a reminder of the guiding principles, which collectively describe what needs to be encouraged in an agile team. 
 
@@ -67,8 +68,10 @@ Once a team has flourished to the metaphor of a high performing tree, that team 
 > •	Live in a world of constant constructive disagreement.
 
 These characteristics can be further encapsulated in the below illustration.
-
-![Continued High_Performance_Tree](../images/continued_high_performance_tree.jpg)
+<p align="center">
+    <img src="../images/continued_high_performance_tree.jpg" title="Continued High Performance Tree">
+</p>
+<br />
 
 Coaching a team using this approach, will help the individuals in the team to challenge themselves, and for the team to become further successful in sprint increments. 
 
