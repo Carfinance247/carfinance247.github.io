@@ -32,7 +32,7 @@ We will take the opportunity to discuss how a team can themselves expect high pe
 A popular metaphor which is illustrated below as enacting high performance is used in the form of a performance tree[1].
 
 <p align="center">
-![High_Performance_Tree](../images/high_performance_tree.jpg)
+    <img src="../images/high_performance_tree.jpg" title="High Performance Tree">
 </p>
 
 An illustration of a high performance tree, serves to act as a reminder of the guiding principles, which collectively describe what needs to be encouraged in an agile team. 
