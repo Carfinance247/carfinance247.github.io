@@ -90,10 +90,10 @@ High performance, the results of a team’s high performance, is a journey. A te
 Almost certainly, when a team has reached a high performance level, invariably, challenges and obstacles will get in the way which will act as a disruption. The importance is to apply the characteristics of high performance as described above, promoting individuals to collaborate and to set their own expectations, to further achieve success.
 
 ## References
-> [1]: Oikosofy High Performance Tree -  http://oikosofy.com/high-performance-tree/ 
+[1]: Oikosofy High Performance Tree -  http://oikosofy.com/high-performance-tree/ 
 
-> [2]: Coaching Agile Teams - Lyssa Adkins
+[2]: Coaching Agile Teams - Lyssa Adkins
 
-> [3]: Scwaber and Beedle 2001
+[3]: Scwaber and Beedle 2001
 
-> [4] :Adapted from Tabaka 2006
+[4] :Adapted from Tabaka 2006
