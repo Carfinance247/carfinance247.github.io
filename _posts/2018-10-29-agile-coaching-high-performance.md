@@ -28,7 +28,7 @@ We will take the opportunity to discuss how a team can themselves expect high pe
 ## High Performance Tree
 
 
-A popular metaphor which is illustrated below as enacting high performance is used in the form of a performance tree [1].
+A popular metaphor which is illustrated below as enacting high performance is used in the form of a performance tree.
 
 <p align="center">
     <img src="../images/high_performance_tree.jpg" title="High Performance Tree">
@@ -39,7 +39,7 @@ An illustration of a high performance tree, serves to act as a reminder of the g
 
 > **Note:**
 > The introduction of a high performance tree can be at any stage. The underlying message is that high performance, as in the metaphor of a tree, begins at grass roots level. Get the foundation right to create strong roots. Creating strong roots enables the tree to grow
-> tall, and the leaves absorb as much light to yield fruits, these are fruits of high performance. [2]
+> tall, and the leaves absorb as much light to yield fruits, these are fruits of high performance.
 
 Below are a set of definitions subscribing to high performance within a team, and how as a coach you can refer to when mentoring individuals. The following are  used to describe the key attributes of a high performing tree;
 
@@ -51,11 +51,11 @@ Below are a set of definitions subscribing to high performance within a team, an
 
 •	**C**ommitment to a goal. Scrum provides authority needed to meet commitments.
 
-•	**C**ourage, have the courage to commit, act and be open, and to expect respect. [3]
+•	**C**ourage, have the courage to commit, act and be open, and to expect respect.
 
 
 ## Collaboration
-Once a team has flourished to the metaphor of a high performing tree, that team will itself be subject to becoming an inviting place for collaboration, individuals within the team will notice developments of their own skills set as a derivative of achieving high performance, compromising such as the following; [4]
+Once a team has flourished to the metaphor of a high performing tree, that team will itself be subject to becoming an inviting place for collaboration, individuals within the team will notice developments of their own skills set as a derivative of achieving high performance, compromising such as the following;
 
 •	Self organising rather than governed by role and / or title.
 
