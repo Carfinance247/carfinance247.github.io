@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Coaching - Setting High Performance in an Agile Team
+title: Agile Coaching - High Performance in an Agile Team
 author: pavenpal_bhullar
 comments: true
 excerpt_separator: <!--more-->
