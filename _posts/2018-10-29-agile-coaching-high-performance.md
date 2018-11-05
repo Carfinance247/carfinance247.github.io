@@ -13,7 +13,7 @@ This blog will discuss coaching individuals in agile teams to become high perfor
 <!--more-->
 
 ## Introduction
-As a Lead Software Engineer at CarFinance 247, my role involves acquires a variety of skills set, from writing code, software architecture and overseeing the technical compass of team products, all the way through to being equipped with the necessary softer and managerial skills to effectively to lead a team of ambitious, highly driven and talented software engineers. 
+As a Lead Software Engineer at CarFinance 247, my role acquires a variety of skills set, from writing code, software architecture and overseeing the technical compass of team products, all the way through to being equipped with the necessary softer and managerial skills to effectively to lead a team of ambitious, highly driven and talented software engineers. 
 
 With this in mind, it brings me on to the point to discuss coaching, more specifically agile coaching, in order to help achieve team success through high performance. I will be describing in this blog some effective techniques and measures used to coach an agile team to expect high performance. 
 
@@ -28,7 +28,7 @@ We will take the opportunity to discuss how a team can themselves expect high pe
 ## High Performance Tree
 
 
-A popular metaphor which is illustrated below as enacting high performance is used in the form of a performance tree[1].
+A popular metaphor which is illustrated below as enacting high performance is used in the form of a performance tree [1].
 
 <p align="center">
     <img src="../images/high_performance_tree.jpg" title="High Performance Tree">
@@ -39,19 +39,19 @@ An illustration of a high performance tree, serves to act as a reminder of the g
 
 > **Note:**
 > The introduction of a high performance tree can be at any stage. The underlying message is that high performance, as in the metaphor of a tree, begins at grass roots level. Get the foundation right to create strong roots. Creating strong roots enables the tree to grow
-> tall, and the leaves absorb as much light to yield fruits, these are fruits of high performance.[2]
+> tall, and the leaves absorb as much light to yield fruits, these are fruits of high performance. [2]
 
 Below are a set of definitions subscribing to high performance within a team, and how as a coach you can refer to when mentoring individuals. The following are  used to describe the key attributes of a high performing tree;
 
-•	**F**ocus  on the work you have committed to
+•	**F**ocus  on the work you have committed to.
 
-•	**O**peness  by keeping everything to the team visible and transparent 
+•	**O**peness  by keeping everything to the team visible and transparent.
 
-•	**R**espect individuals by their background and experiences who collectively comprise a team
+•	**R**espect individuals by their background and experiences who collectively comprise a team.
 
-•	**C**ommitment to a goal. Scrum provides authority needed to meet commitments
+•	**C**ommitment to a goal. Scrum provides authority needed to meet commitments.
 
-•	**C**ourage, have the courage to commit, act and be open, and to expect respect[3]
+•	**C**ourage, have the courage to commit, act and be open, and to expect respect. [3]
 
 
 ## Collaboration
@@ -59,7 +59,7 @@ Once a team has flourished to the metaphor of a high performing tree, that team 
 
 •	Self organising rather than governed by role and / or title.
 
-•	Empowered to make decisions
+•	Empowered to make decisions.
 
 •	Truly believe as a team any problem can be solved.
 
