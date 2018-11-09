@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coming in from the dark side
-author: Lucy_Mackie
+author: lucy_mackie
 comments: true
 excerpt_separator: <!--more-->
 ---
