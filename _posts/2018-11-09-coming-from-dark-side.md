@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 ## Coming in from the dark side – why you don’t need to be techy to work within development
-
+<!--more-->
 My name’s Lucy and it has been 18 months since I have done a deal. The crowd at SA (Sales Anonymous) nod in acknowledgment.
 
 So as you may have guessed, I am a Product Manager whose background has nothing to do with development or technology, but in fact from a sales and administrative background. Quite a career change!
