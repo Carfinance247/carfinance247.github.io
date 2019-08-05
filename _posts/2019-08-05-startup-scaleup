@@ -1,0 +1,71 @@
+---
+layout: post
+title: Start-Up to Scale-Up
+author: jonathan_wilson
+comments: true
+excerpt_separator: <!--more-->
+---
+
+6 years ago, our business was underpinned by 1 database, 2 web applications, and a couple of console / processing applications.
+
+![Monolith](/images/Monolith.png)
+<!--more-->
+> Where we started, a very simple view of a very simple architecture
+ 
+There was 1 application that we relied on to manage our customer information and keep track on customers as they progressed through our car buying journey, the other was for customers to apply through, the application form (and website for pre-application information).
+
+As the business grew, so did our team of software engineers.  In fact, it grew from 1 to around 25 software engineers in 24 very short months.  During that time, we moved from 1 database to 20+ databases, a nod towards our Microservices movement.  
+
+![Moving to Microservices](/images/Monolith_Microservices.png)
+<!--more-->
+> As we started to build out our services we failed to break apart and move away from our original large database
+
+A microservice is an API, tightly coupled to a database.  It should allow an easier way to scale, but also a stricter way to build out capability and for that service to be responsible for a very specific area of expertise, such as, our ability to request and allow fulfilment of documents (ID, Proof of Address, Proof of Income etc) that is, if strict patterns are followed.
+
+What followed as we built our software was rapid deployments and feature rollouts, invariably this led to unclassified technical debt and even worse, non-identified technical debt.  Our microservices journey had the correct sentiment and motivations (Scale, separation of concerns etc) but due to the speed we built out, patterns were not adhered to, and we made mistakes along the way or rather bad decisions at the time with the benefit of hindsight.  There was one big issue that had been avoided and built around, and that was to break apart from that 1 big, original database the business had grown out of.  That database is key to our Customers, Loan Applications, Status’, Finance Agreements, Quotes, etc.  While this dependency remains, we will never be able to truly scale, nor sperate concerns of domains and equally important, responsibly for teams.
+
+There is also another issue.  While the above situation remains, as the business begins to scale out into new verticals and opportunities for further growth all of our software is subject to change; we have to change almost all of our software in parallel to cater for the scale and change, which is difficult, very difficult.
+
+##Stop.  And Think.
+
+We are now at a crossroads.  The business has grown, so has our software, but what we have in front of us is a long road.  An exciting road.  We have huge ambitions.  We have to repay our technical debt and we have two choices.  1) continue to unpick our original software using better principles, more emphasis on patterns and tackle the core original database or 2) start again.  
+
+I like to relate this to an F1 team.  For 3 or 4 seasons each team work on their car.  They adapt and improve their car, tweaking aerodynamics, suspension, looking for extra downforce through corners.  But then meanwhile, they are developing a new core engine.  And they start again.
+
+We have taken the decision as a business and technology team to start with a blank canvas.  We are currently exploring Event Driven Architecture, I won’t go in to the details here as there will be subsequent posts from our team (far more capable of explaining the ins and outs than I am!), but in a nutshell.  Think of our services; Applying, Quoting, Vehicles, Finance Agreement, Communications as domains.  Each of these domains are unaware of one another but they perform their particular task or set of tasks extremely well.  We can improve, change and add to their domains feature set… independently of one another.  The domains can communicate via a common layer, by way of messages.  
+
+![Event Driven Architecture and Microservices](/images/Services_Events.png)
+<!--more-->
+> Our future... decoupled.
+
+
+By adhering to this concept we can scale domains as demand increases per domain, but we can also scale in a different way, we can scale our teams and deploy our people where skill set and work demand increases or is required – this in practice is even more complicated than scaling the technology itself but with a clear separation of technical concerns of the people, or rather teams can truly own and operate their software against their own roadmap that feeds up into our overarching business strategic goals.
+
+##Delivering Value
+
+Where to begin?  Right now, we are in the process of kicking off our pilot program, our MTP (Minimal Testable Product).  This is intended to remove as much technical uncertainty as possible prior to starting our MVP (Minimal Viable Product).  We have spent the past number of weeks identifying a thin slice of our business that we can focus on to deliver and prove value in our efforts and approach.
+
+It’s interesting, but not surprising on reflection, that whatever area our business we look at there is one domain that is always present and critical.  Communications.  We speak to our customers every day, by many means.  We have a good platform currently that comes in the way of Phoenix.  It is by no means perfect and it must be amazing.  Good is not good enough.  Communications and how we manage customer information throughout our customers journey is tightly linked but must be decoupled technically for the reasons above (Scale and Ownership).
+
+I am writing this sat in a San Francisco hotel bar (We landed last night and it’s 09:45 the following morning, so coffee only for now, although it’s 5:45pm UK time and I am tempted to order a cold lager).  
+
+![Pre Conference Blog Post in San Francisco](/images/Blog_Post.JPG)
+<!--more-->
+> Here I am, extremely jet lagged writing this blog post.  With James Weir, our Sales and Ops Director eagerly anticapting a glimpse into what will be possible for customer communications within our business.
+
+Ahead of me is a 3-day conference with access to the senior management team at Twilio.  All of our communications (except email, currently) are powered by Twilio, we consume their API’s (Services) to initiate Voice, SMS, Chat and Presence.  We also use their services to support how, and when we route inbound customer traffic to the most skilled advisor available.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BjWpFL2e6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I am here to understand if Twilio can continue to support our next 7 years.  The signs are positive, they have over the past 18 months launched and continue to improve a platform named Flex.  The clue is in the title.  It’s designed to be ‘Flexible’, we’ll see how flexible over the next few days and coming weeks as we move out to MTP.
+
+![Flex by Twilio](/images/flex.png)
+<!--more-->
+> Will Flex be the answer for CarFinance 247?
+
+With a platform such as Flex, it should reduce the amount of effort we need to build out our new Generation communications platform and also provide a framework to build out our Advisor Experience; the screens our advisors work from in order to continue to provide the amazing service we do today, but with more intelligent routing and channels.  We shouldn’t be second guessing what the best channel of communication is, and we shouldn’t be guessing when is best to contact our customers.  
+
+##A new platform
+
+Over the next 12 months we will undoubtedly face challenges.  But one thing is for sure.  We will answer those technical uncertainties and we will deliver business value on a new platform.  Maybe not for all the business at once.  But when we do with our MVP, the rest will follow.
+
