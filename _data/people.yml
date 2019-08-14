@@ -4,7 +4,7 @@
 
 - author: jonathan_wilson
   name: Jonathan Wilson
-  title: Technology Director
+  title: Chief Product Officer
 
 - author: jose_bento
   name: Jose Bento
@@ -24,7 +24,7 @@
   
 - author: michael_binks
   name: Michael Binks
-  title: Head of Site Reliability
+  title: Head of Engineering
 
 - author: paul_stevens
   name: Paul Stevens
@@ -32,4 +32,8 @@
 
 - author: tim_carpenter
   name: Tim Carpenter
-  title: Senior Product Owner
+  title: Head of Product
+
+- author: ben_walsh
+  name: Ben Walsh
+  title: Lead Front End Developer
